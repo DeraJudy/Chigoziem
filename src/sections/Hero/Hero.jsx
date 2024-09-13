@@ -40,11 +40,11 @@ function Hero() {
         </div>
         <div className={styles.info}>
             <h1>
-                Chidera
+                Chigoziem
                 <br />
-                Ulu
+                Iheanacho
             </h1>
-            <h2>FrontEnd Developer</h2>
+            <h2>Project Manager</h2>
             <span>
                 <a href="https://twitter.com/" target="_blank">
                     <img src={twitterIcon} alt="Twitter-icon" />
@@ -57,7 +57,14 @@ function Hero() {
                 </a>
             </span>
             <p>
-                With a passion for developing modern React web apps for commercial businesses.
+            As a highly organized and results-driven project manager, I have extensive experience 
+            leading cross-functional teams and delivering projects on time, within scope, and on budget. 
+            My expertise spans various industries, with a strong focus on Agile and Waterfall
+            methodologies, risk management, and effective stakeholder communication. I am skilled
+            in utilizing project management tools such as Jira, MS Project, and Asana, ensuring 
+            seamless collaboration and efficient workflow. With a proven track record of driving 
+            successful project outcomes, I am passionate 
+            about aligning project goals with business objectives and leading teams to success.
             </p>
             <a href={CV} download>
                 <button className="hover" >
